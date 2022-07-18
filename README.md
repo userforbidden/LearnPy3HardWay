@@ -18,4 +18,10 @@
 
 07172022 Completed Exercise 8 - Printing, Printing
 
-07172022 Completed Exercise 9 - Printing, Printing, Printing 
+07172022 Completed Exercise 9 - Printing, Printing, Printing
+
+07182022 Completed Exercise 10 - What was that?
+
+07182022 Completed Exercise 11 - Asking Questions
+
+07182022 Completed Exercise 12 - Prompting People
