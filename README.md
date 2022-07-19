@@ -25,3 +25,7 @@
 07182022 Completed Exercise 11 - Asking Questions
 
 07182022 Completed Exercise 12 - Prompting People
+
+07192022 Completed Exercise 13 - Parameters, Unpacking, Variables
+
+07192022 Completed Exercise 14 - Prompting and Passing
