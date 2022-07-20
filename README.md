@@ -29,3 +29,11 @@
 07192022 Completed Exercise 13 - Parameters, Unpacking, Variables
 
 07192022 Completed Exercise 14 - Prompting and Passing
+
+07192022 Completed Exercise 15 - Reading files
+
+07202022 Completed Exercise 16 - Reading and writing files
+
+07202022 Completed Exercise 17 - More Files
+
+07202022 Completed Exercise 18 - Names, Variables, Code, Functions
