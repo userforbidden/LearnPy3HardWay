@@ -37,3 +37,11 @@
 07202022 Completed Exercise 17 - More Files
 
 07202022 Completed Exercise 18 - Names, Variables, Code, Functions
+
+07212022 Completed Exercise 19 - Functions and Variables
+
+07212022 Completed Exercise 20 - Functions and Files
+
+07212022 Completed Exercise 21 - Functions Can Return Something
+
+07212022 Completed Exercise 22 - What do You know so far? (A no code revision)
