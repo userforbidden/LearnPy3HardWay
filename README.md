@@ -45,3 +45,7 @@
 07212022 Completed Exercise 21 - Functions Can Return Something
 
 07212022 Completed Exercise 22 - What do You know so far? (A no code revision)
+
+07262022 Completed Exercise 23 - Strings, Bytes, and Character Encoding
+
+07262022 Completed Exercise 24 - More practice
