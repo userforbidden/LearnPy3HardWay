@@ -49,3 +49,9 @@
 07262022 Completed Exercise 23 - Strings, Bytes, and Character Encoding
 
 07262022 Completed Exercise 24 - More practice
+
+07272022 Completed Exercise 25 Even More practice
+
+07272022 Completed Exercise 26 - Congratulations, Take a test
+
+07272022 Completing Exercise 27 - There are things to memorize MEMORIZING LOGIC
