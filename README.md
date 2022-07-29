@@ -54,4 +54,10 @@
 
 07272022 Completed Exercise 26 - Congratulations, Take a test
 
-07272022 Completing Exercise 27 - There are things to memorize MEMORIZING LOGIC
+07272022 Completed Exercise 27 - MEMORIZING LOGIC
+
+07282022 Completed Exercise 28 - Boolean Practice
+
+07292022 Completed Exercise 29 - What if
+
+07292022 Completed Exercise 30 - Else and if 
