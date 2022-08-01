@@ -60,4 +60,8 @@
 
 07292022 Completed Exercise 29 - What if
 
-07292022 Completed Exercise 30 - Else and if 
+07292022 Completed Exercise 30 - Else and if
+
+07312022 Completed Exercise 31 - Making Decisions
+
+07312022 Completed Exercise 32 - Loops and Lists
