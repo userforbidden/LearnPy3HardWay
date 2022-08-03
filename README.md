@@ -65,3 +65,7 @@
 07312022 Completed Exercise 31 - Making Decisions
 
 07312022 Completed Exercise 32 - Loops and Lists
+
+08022022 Completed Exercise 33 - While loops
+
+08022022 Completed Exercise 34 - Accessing Elements of Lists
