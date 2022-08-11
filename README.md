@@ -69,3 +69,7 @@
 08022022 Completed Exercise 33 - While loops
 
 08022022 Completed Exercise 34 - Accessing Elements of Lists
+
+08062022 Completed Exercise 35 - Branches and Functions
+
+08112022 Completed Exercise 36 - Designing and Debugging
